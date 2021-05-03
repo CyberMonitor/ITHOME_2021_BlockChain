@@ -5,6 +5,10 @@
 * [合約收錄](../../blob/master/攻擊合約)
 
 ## github 網址QRCODE
-* <img src="pic/metamask_self.png" width="400">
+* <img src="pic/github_ithome.png" width="400">
+
+## 幣安 好友推薦碼
+* <img src="pic/binance_friend.png" width="400">
+
 
 
